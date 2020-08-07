@@ -16,19 +16,27 @@ Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/
 
 **LANGUAGES**
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" alt="Javascript Logo" style="margin-right: 15px"/>
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo" height="25px" style="margin-right: 15px"/>
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Sql Logo" height="25px" style="margin-right: 15px" />
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Logo" height="25px" style="margin-right: 15px" />
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Logo" height="25px" style="margin-right: 15px" />
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS Logo" height="25px" style="margin-right: 15px" />
-
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP Logo" height="25px" style="margin-right: 15px" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" alt="Javascript Logo" style="margin-right: 15px"/>
+</a>
+<a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo" height="25px" style="margin-right: 15px"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Sql Logo" height="25px" style="margin-right: 15px" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Logo" height="25px" style="margin-right: 15px" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Logo" height="25px" style="margin-right: 15px" />
+</a>
+<a href="https://sass-lang.com/">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS Logo" height="25px" style="margin-right: 15px" />
+</a>
+<a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP Logo" height="25px" style="margin-right: 15px" />
+</a>
 
 **FRAMEWORKS & TOOLS**
 
