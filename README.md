@@ -8,11 +8,17 @@ Stumbled upon the magical world of programming, at the age of 15.
 Full Stack Developer. Started out in [PHP](https://www.php.net/), settled in [Node.js](https://nodejs.org/).  
 Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/).
 
+<br/>
+<br/>
+
 **CURRENTLY LEARNING**
 
 <a href="http://reactjs.org/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25px" alt="ReactJs Logo" />
 </a>
+
+<br/>
+<br/>
 
 **LANGUAGES**
 
@@ -37,6 +43,9 @@ Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/
 <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP Logo" height="25px" style="margin-right: 15px" />
 </a>
+
+<br/>
+<br/>
 
 **FRAMEWORKS & TOOLS**
 
