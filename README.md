@@ -1,7 +1,7 @@
 # 👨‍💻
 
 👋 Hi there, I am Sarang!
-<img src="https://avatars2.githubusercontent.com/u/43114120" alt="github avatar" width="150px" style="float: right; clip-path: circle();"/>
+<img src="https://avatars2.githubusercontent.com/u/43114120" alt="github avatar" width="150px" align="right" style="clip-path: circle();"/>
 
 A developer from Kerala, India.  
 Stumbled upon the magical world of programming, at the age of 15.  
