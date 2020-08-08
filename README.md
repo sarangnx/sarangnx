@@ -1,7 +1,7 @@
 # 👨‍💻
 
 👋 Hi there, I am Sarang!
-<img src="https://avatars2.githubusercontent.com/u/43114120" alt="github avatar" width="150px" align="right" style="clip-path: circle();"/>
+<img src="https://avatars2.githubusercontent.com/u/43114120" alt="github avatar" width="150px" align="right" />
 
 A developer from Kerala, India.  
 Stumbled upon the magical world of programming, at the age of 15.  
@@ -25,21 +25,27 @@ Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" alt="Javascript Logo" />
 </a>
+&nbsp;
 <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo" height="25px" />
 </a>
+&nbsp;
 <a href="https://en.wikipedia.org/wiki/SQL">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Sql Logo" height="25px" />
 </a>
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Logo" height="25px" />
 </a>
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Logo" height="25px" />
 </a>
+&nbsp;
 <a href="https://sass-lang.com/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS Logo" height="25px" />
 </a>
+&nbsp;
 <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP Logo" height="25px" />
 </a>
