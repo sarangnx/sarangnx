@@ -1,7 +1,6 @@
 # 👨‍💻
 
 👋 Hi there, I am Sarang!
-<img src="https://avatars2.githubusercontent.com/u/43114120" alt="github avatar" width="150px" align="right" />
 
 A developer from Kerala, India.  
 Stumbled upon the magical world of programming, at the age of 15.  
@@ -110,3 +109,15 @@ Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/
 <a href="https://heroku.com/">
     <img src="https://www3.assets.heroku.com/assets/logo-purple-08fb38cebb99e3aac5202df018eb337c5be74d5214768c90a8198c97420e4201.svg" alt="Heroku Logo" height="25px" />
 </a>
+
+## Here's what I'm Listening to right now:
+
+<object data="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333" >
+
+  <img src="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333" />
+
+</object>
+
+Check out: [repo](https://github.com/sarangnx/now-playing)
+
+create your own card with [now-play.vercel.app](https://now-play.vercel.app)
