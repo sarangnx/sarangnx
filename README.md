@@ -112,10 +112,8 @@ Little bit of UI/UX Design. Mostly Implementation in [Vue.js](https://vuejs.org/
 
 ## Here's what I'm Listening to right now:
 
-<object data="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333" >
-
-  <img src="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333" />
-
+<object data="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333&theme=dark" >
+  <img src="https://now-play.vercel.app/api/generate?uid=f974bd93-2609-41a6-ba8e-1a76a0c43333&theme=dark" />
 </object>
 
 Check out: [repo](https://github.com/sarangnx/now-playing)
